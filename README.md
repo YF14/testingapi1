@@ -3,7 +3,7 @@
 
 ## Installation
 
-Use the npm i to install dependencies
+Use the ```npm``` i to install dependencies
 
 ```bash
     "bcryptjs": "^2.4.3",
